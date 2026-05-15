@@ -248,17 +248,24 @@ Developer productivity platform
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<div align="center">
+I use GitHub mainly to build and improve developer tools, especially `arxgen`.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhbddeveloper-jpg&show_icons=true&theme=tokyonight&hide_border=true)
+Current repository focus:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhbddeveloper-jpg&layout=compact&theme=tokyonight&hide_border=true)
+| Project | What it is |
+| --- | --- |
+| [`arxgen`](https://github.com/minhbddeveloper-jpg/archgen_architecture) | Multi-language Clean Architecture project generator |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=minhbddeveloper-jpg&theme=tokyonight&hide_border=true)
+Quality habits I care about:
 
-</div>
+- Clear README and usage examples
+- TypeScript typecheck
+- Automated tests
+- Snapshot tests for generated files
+- GitHub Actions CI
+- Small commits with clear messages
 
 ---
 
